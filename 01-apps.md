@@ -1,42 +1,76 @@
 # Open source Applications
 
-## Core Apps
-
-### 1. [Envizi Integration Hub (Microservices)](https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app/tree/main)
-
-### 2. [iLender App (Microservices)](https://github.com/GandhiCloudLab/iLenderApp)
 
 
-### 3. [Wealthcare Application (Microservices)](https://github.com/GandhiCloudLab/wealthcare-cloud-native-app)
 
-### 4. Wealthcare Application (Monolith)
-
-#### [Wealthcare](https://github.com/GandhiCloudLab/wealthcare-monolith-app)
-
-#### [WealthPlan](https://github.com/GandhiCloudLab/wealthplan)
-
-
-### 5. Wcare (Microservices)
-
-#### [Web](https://github.com/GandhiCloudLab/wcare-web)
-
-#### [Finance](https://github.com/GandhiCloudLab/wcare-finance)
-
-#### [User](https://github.com/GandhiCloudLab/wcare-user)
-
-## Small and Misc App
-
-#### 6. [IBM Cloud Module Provisioner (Microservices - small app)](https://github.com/GandhiCloudLab/ibm-cloud-module-provisioner)
-
-
-#### 7. [IDepo App (Microservices - small app)](https://github.com/GandhiCloudLab/idepo-app)
-
-#### 8. [Catalog App for Service Discovery](https://github.com/GandhiCloudLab/service-discovery-app-catalog)
-
-#### 9. [CICD Apps](https://github.com/GandhiCloudLab/gan-cicd-apps)
-
-## Argo CD
-
-#### 10. [Argo-App-ilender](https://github.com/GandhiCloudLab/argo-app-ilender)
-
-#### 11. [Deploy iLender app with GitOps using ArgoCD and Kustomize](https://github.com/GandhiCloudLab/argo-app-ilender-kustomize)
+<table>
+    <thead>
+        <th>S.No</th>
+        <th>Topics</th>
+        <th>Links</th>
+    </thead>
+    <tr>
+        <td colspan=3><strong>Core Apps</strong></td>
+   </tr>  
+    <tr>
+        <td>1</td>
+        <td>Envizi Integration Hub (Microservices) </td>
+        <td><a href="https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app">Link</a></td>
+   </tr>  
+    <tr>
+        <td>2</td>
+        <td>iLender (Microservices) </td>
+        <td><a href="https://github.com/GandhiCloudLab/iLenderApp">Link</a></td>
+   </tr>  
+    <tr>
+        <td>3</td>
+        <td>Wealthcare (Microservices) </td>
+        <td><a href="https://github.com/GandhiCloudLab/wealthcare-cloud-native-app">Link</a></td>
+   </tr>  
+    <tr>
+        <td>4</td>
+        <td>Wealthcare (Monolith) </td>
+        <td><a href="https://github.com/GandhiCloudLab/wealthcare-monolith-app">Link</a></td>
+   </tr>  
+    <tr>
+        <td>5</td>
+        <td>WealthPlan (Monolith) </td>
+        <td><a href="https://github.com/GandhiCloudLab/wealthplan">Link</a></td>
+   </tr>  
+    <tr>
+        <td>6</td>
+        <td>Wcare (Microservices) </td>
+        <td><a href="https://github.com/GandhiCloudLab/wcare-web">Web</a> &nbsp;&nbsp;<a href="https://github.com/GandhiCloudLab/wcare-finance">Finance</a>&nbsp;&nbsp;<a href="https://github.com/GandhiCloudLab/wcare-user">User</a></td>
+   </tr>  
+    <tr>
+        <td colspan=3><strong>Tiny Apps</strong></td>
+   </tr>  
+    <tr>
+        <td>7</td>
+        <td>IBM Cloud Module Provisioner (Microservices) </td>
+        <td><a href="aaaaa">https://github.com/GandhiCloudLab/ibm-cloud-module-provisioner</a></td>
+   </tr>  
+    <tr>
+        <td>8</td>
+        <td>IDepo App (Microservices) </td>
+        <td><a href="aaaaa">https://github.com/GandhiCloudLab/idepo-app</a></td>
+   </tr>  
+    <tr>
+        <td>9</td>
+        <td>Catalog App for Service Discovery </td>
+        <td><a href="https://github.com/GandhiCloudLab/service-discovery-app-catalog">Link</a></td>
+   </tr>  
+    <tr>
+        <td colspan=3><strong>Argo CD Apps</strong></td>
+   </tr>     
+    <tr>
+        <td>10</td>
+        <td>Argo-App-ilender </td>
+        <td><a href="https://github.com/GandhiCloudLab/argo-app-ilender">Link</a></td>
+   </tr>     
+    <tr>
+        <td>11</td>
+        <td>Deploy iLender app with GitOps using ArgoCD and Kustomize </td>
+        <td><a href="https://github.com/GandhiCloudLab/argo-app-ilender-kustomize">Link</a></td>
+   </tr>
+</table>
