@@ -1,6 +1,6 @@
 # Watson AIOps
 
-### Demo Setup
+## Demo Setup
 
 #### Watson AIOps 3.3.0 Demo Setup with iLender Application
 https://github.com/GandhiCloudLab/watson-ai-ops-330-guide-ilender
@@ -22,7 +22,7 @@ https://github.com/GandhiCloudLab/ibm-ai-ops-310-blog
 https://github.com/GandhiCloudLab/watson-ai-ops-guide
 https://github.com/GandhiCloudLab/ibm-ai-ops-blog
 
-### Installations
+## Installations
 
 #### IBM Cloud Pak for Watson AIOps 3.6.0 Installation
 https://github.com/GandhiCloudLab/waiops360-install
@@ -50,7 +50,7 @@ https://github.com/GandhiCloudLab/waiops-320-setup-on-techzone
 https://github.com/GandhiCloudLab/waiops320
 
 
-### Integrations
+## Integrations
 
 
 #### Sending Events to Watson AIOps using Generic Webhook Probe
@@ -71,7 +71,7 @@ https://github.com/GandhiCloudLab/ibm-ai-ops-snow-blog
 https://github.com/GandhiCloudLab/watson-ai-ops-instana
 https://github.com/GandhiCloudLab/ibm-ai-ops-instana-blog
 
-### Topology Manager
+## Topology Manager
 
 #### Topology Merge Rules
 https://github.com/GandhiCloudLab/waiops-topology-merge-rules-blog
@@ -91,7 +91,7 @@ https://github.com/GandhiCloudLab/waiops350-sevone-temporalgroup-blog
 https://github.com/GandhiCloudLab/watson-ai-ops-320-topology-api
 https://github.com/GandhiCloudLab/watson-ai-ops-320-topology-api-blog
 
-### Teraforms
+## Teraforms
 
 #### IBM Cloud Pak for Watson AIOps Operator Catalog module
 https://github.com/GandhiCloudLab/terraform-gitops-cp-catalogs-waiops-aimgr-draft

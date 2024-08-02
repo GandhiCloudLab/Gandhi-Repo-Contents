@@ -2,8 +2,7 @@
 
 ## Core Apps
 
-### 1. Envizi Integration Hub (Microservices)
-https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app/tree/main
+### 1. [Envizi Integration Hub (Microservices)](https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app/tree/main)
 
 
 ### 2. iLender App (Microservices)
@@ -42,17 +41,17 @@ https://github.com/GandhiCloudLab/ibm-cloud-module-provisioner
 #### 7. IDepo App (Microservices - small app)
 https://github.com/GandhiCloudLab/idepo-app
 
-#### Catalog App for Service Discovery
+#### 8. Catalog App for Service Discovery
 https://github.com/GandhiCloudLab/service-discovery-app-catalog
 
-#### CICD Apps
+#### 9. CICD Apps
 https://github.com/GandhiCloudLab/gan-cicd-apps
 
 ## Argo CD
 
-#### 7. Argo
+#### 10. Argo
 Argo-App-ilender
 https://github.com/GandhiCloudLab/argo-app-ilender
 
-#### 8. Deploy iLender app with GitOps using ArgoCD and Kustomize
+#### 11. Deploy iLender app with GitOps using ArgoCD and Kustomize
 https://github.com/GandhiCloudLab/argo-app-ilender-kustomize
