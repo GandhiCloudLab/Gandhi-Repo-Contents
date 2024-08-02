@@ -22,7 +22,7 @@ https://github.com/GandhiCloudLab/wealthcare-monolith-app
 https://github.com/GandhiCloudLab/wealthplan
 
 
-### 4. Wcare (Microservices)
+### 5. Wcare (Microservices)
 
 #### Web
 https://github.com/GandhiCloudLab/wcare-web
@@ -35,11 +35,11 @@ https://github.com/GandhiCloudLab/wcare-user
 
 ## Small and Misc App
 
-#### 5. IBM Cloud Module Provisioner (Microservices - small app)
+#### 6. IBM Cloud Module Provisioner (Microservices - small app)
 https://github.com/GandhiCloudLab/ibm-cloud-module-provisioner
 
 
-#### 6. IDepo App (Microservices - small app)
+#### 7. IDepo App (Microservices - small app)
 https://github.com/GandhiCloudLab/idepo-app
 
 #### Catalog App for Service Discovery
@@ -50,9 +50,9 @@ https://github.com/GandhiCloudLab/gan-cicd-apps
 
 ## Argo CD
 
-#### 4. Argo
+#### 7. Argo
 Argo-App-ilender
 https://github.com/GandhiCloudLab/argo-app-ilender
 
-#### Deploy iLender app with GitOps using ArgoCD and Kustomize
+#### 8. Deploy iLender app with GitOps using ArgoCD and Kustomize
 https://github.com/GandhiCloudLab/argo-app-ilender-kustomize
