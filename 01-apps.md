@@ -29,7 +29,7 @@
 #### 6. [IBM Cloud Module Provisioner (Microservices - small app)](https://github.com/GandhiCloudLab/ibm-cloud-module-provisioner)
 
 
-#### 7. [IDepo App (Microservices - small app)](https://github.com/GandhiCloudLab/idepo-app
+#### 7. [IDepo App (Microservices - small app)](https://github.com/GandhiCloudLab/idepo-app)
 
 #### 8. [Catalog App for Service Discovery](https://github.com/GandhiCloudLab/service-discovery-app-catalog)
 
