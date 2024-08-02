@@ -659,7 +659,7 @@ IBM Developer, Recipes and Community articles created by Gandhi.
     <tr>
         <td>16</td>
         <td>Deploying Appsody app in Openshift using Tekton pipeline</td>
-        <td><a href="[aaa](https://developer.ibm.com/recipes/tutorials/deploying-appsody-app-in-openshift-using-tekton-pipeline/)">Link</a></td>
+        <td><a href="https://developer.ibm.com/recipes/tutorials/deploying-appsody-app-in-openshift-using-tekton-pipeline/">Link</a></td>
    </tr>  
     <tr>
         <td>17</td>
@@ -674,6 +674,7 @@ IBM Developer, Recipes and Community articles created by Gandhi.
         ">Link</a></td>
    </tr>   
 
+</table>
 
 ## 2019
 
