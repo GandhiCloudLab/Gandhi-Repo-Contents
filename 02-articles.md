@@ -41,7 +41,7 @@ IBM Developer, Recipes and Community articles created by Gandhi.
         <td>1</td>
         <td>Dataflow automation for sending UDC Excel to AWS S3 bucket in Envizi</td>
         <td><a href="https://developer.ibm.com/tutorials/awb-sending-udc-excel-to-s3/">Link</a>  <a href="https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/10/12/envizi-dataflow-sending-udc-excel-template-to-s3-f?CommunityKey=6853271a-0a5c-45f9-a9a2-0186706f68ec
-        ">Link</a>   <a href="aaa">https://github.com/GandhiCloudLab/envizi-dataflow-sending-udc-excel-to-s3-blog</a>  </td>
+        ">Link</a>   <a href="https://github.com/GandhiCloudLab/envizi-dataflow-sending-udc-excel-to-s3-blog">Link</a>  </td>
    </tr>  
     <tr>
         <td>2</td>
@@ -113,10 +113,6 @@ IBM Developer, Recipes and Community articles created by Gandhi.
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>aaa</td>
-        <td><a href="aaa">Link</a></td>
-   </tr>  
-    <tr>
         <td>Demo Video</td>
         <td><a href="https://ibm.box.com/s/75ufrq12czzg09wl32uiixjr02v713x5">Link</a></td>
    </tr>  
@@ -144,6 +140,7 @@ IBM Developer, Recipes and Community articles created by Gandhi.
         ">Link</a></td>
    </tr>            
 
+</table>
 ## 2022
 
 
@@ -413,154 +410,149 @@ IBM Developer, Recipes and Community articles created by Gandhi.
    </tr>  
     <tr>
         <td>20</td>
-        <td>### 25.Instana and WAIOps Integration : 7 - Create Alert in Instana</td>
+        <td>Instana and WAIOps Integration : 7 - Create Alert in Instana</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-7-create-alert-in-instana
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>1</td>
-        <td>### 24.Instana and WAIOps Integration : 6 - Create Alert Channels in Instana</td>
+        <td>21</td>
+        <td>Instana and WAIOps Integration : 6 - Create Alert Channels in Instana</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-6-create-alert-channels-in-instana
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>21</td>
-        <td>### 23.Instana and WAIOps Integration : 5 - Create Events in Instana</td>
+        <td>22</td>
+        <td>Instana and WAIOps Integration : 5 - Create Events in Instana</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-5-create-events-in-instana
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>22</td>
-        <td>### 22.Instana and WAIOps Integration : 4 - Create Custom Payload in Instana</td>
+        <td>23</td>
+        <td>Instana and WAIOps Integration : 4 - Create Custom Payload in Instana</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-4-create-custom-payload-in-instana
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>1</td>
-        <td>### 21.Instana and WAIOps Integration : 3 - Create Application in Instana</td>
+        <td>24</td>
+        <td>Instana and WAIOps Integration : 3 - Create Application in Instana</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-3-create-application-in-instana
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>23</td>
+        <td>25</td>
         <td>Instana and WAIOps Integration : 2 - Create Instana Webhook in Watson AIOps Event Manager NOI</td>
         <td><a href="[aaa](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-2-create-instana-webhook-in-waiops)">Link</a></td>
    </tr>  
     <tr>
-        <td>24</td>
+        <td>26</td>
         <td>Instana and WAIOps Integration : 1 - Integrating Instana with Watson AIOps</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-1-integrating-instana-with-watson-aiops
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>25</td>
+        <td>27</td>
         <td> AIOps v3.1 - Series 10 : Create and Execute RunBook in Watson AIOps</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/06/27/aiops-v31-series-10-create-and-execute-runbook-in
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>26</td>
+        <td>28</td>
         <td> AIOps v3.1 - Series 09 : BookInfo Demo Setup for AIOps</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-09-bookinfo-demo-setup-for-aiops
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>27</td>
+        <td>29</td>
         <td> AIOps v3.1 - Series 08 : Installing BookInfo app for AIOps</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-08-installing-bookinfo-app-for-ai
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>28</td>
+        <td>30</td>
         <td> AIOps v3.1 - Series 07 : Configuring Event Manager</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-07-configuring-event-manager
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>29</td>
+        <td>31</td>
         <td> AIOps v3.1 - Series 06 : Inferencing Log Anomaly, Event Grouping and Similar Incidents</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-06-inferencing-log-anomaly-event
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>30</td>
+        <td>32</td>
         <td> AIOps v3.1 - Series 05 : Training Logs, Events and Incidents</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-05-training-logs-events-and-incid
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>1</td>
+        <td>33</td>
         <td> AIOps v3.1 - Series 04 : Create Training Definition for Logs, Events and Incidents</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-04-create-training-definition-for
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>31</td>
+        <td>34</td>
         <td> AIOps v3.1 - Series 03 : Create Application using Kubernetes Observer</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-03-create-application-using-kuber
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>32</td>
+        <td>35</td>
         <td> AIOps v3.1 - Series 02 : Slack Account Creation and Integration</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-02-slack-account-creation-and-int
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>33</td>
+        <td>36</td>
         <td> AIOps v3.1 - Series 01 : Data and Tool Integrations</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-01-data-and-tool-integrations
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>34</td>
+        <td>37</td>
         <td> Using AI-Manager APIs in Watson AI-Ops</td>
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/03/29/using-ai-manager-apis-in-watson-ai-ops
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>35</td>
+        <td>38</td>
         <td> Similar Incidents by AI-Manager in Watson AIOps</td>
         <td><a href="https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/similar-incidents-by-ai-manager-in-watson-aiops
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>36</td>
+        <td>39</td>
         <td> Training Similar Incidents for AI Manager in Watson AIOps</td>
         <td><a href="https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/training-similar-incidents-for-ai-manager-in-watso
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>37</td>
+        <td>40</td>
         <td> Event Grouping by AI-Manager in Watson AIOps</td>
         <td><a href="https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/event-grouping-by-ai-manager-in-watson-aiops
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>1</td>
+        <td>41</td>
         <td> Training Events for AI-Manager in Watson AIOps</td>
         <td><a href="https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/training-events-for-ai-manager-in-watson-aiops
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>38</td>
+        <td>42</td>
         <td>Log Anomaly Detection by AI-Manager in Watson AI-Ops</td>
         <td><a href="https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/14/log-anomaly-detection-by-ai-manager-in-w-ai-ops
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>39</td>
-        <td>aaa</td>
-        <td><a href="aaa">Link</a></td>
-   </tr>  
-    <tr>
-        <td>40</td>
+        <td>43</td>
         <td> Training Log anomaly models for AI Manager in Watson AIOps</td>
         <td><a href="https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/10/training-log-anomaly-models-for-ai-manager
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>41</td>
+        <td>44</td>
         <td>Configuring AI-Manager in Watson AI-Ops</td>
         <td><a href="https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/09/configuring-ai-manager-in-watson-ai-ops
         ">Link</a></td>
@@ -614,7 +606,7 @@ IBM Developer, Recipes and Community articles created by Gandhi.
     <tr>
         <td>7</td>
         <td> Implementing MCM Service Discovery in RHOCP 4.3 Clusters</td>
-        <td><a href="[aaa](https://developer.ibm.com/recipes/tutorials/implementing-mcm-service-discovery-in-rhocp-4-3-clusters/)">Link</a></td>
+        <td><a href="https://developer.ibm.com/recipes/tutorials/implementing-mcm-service-discovery-in-rhocp-4-3-clusters/">Link</a></td>
    </tr>  
     <tr>
         <td>8</td>
@@ -641,42 +633,42 @@ IBM Developer, Recipes and Community articles created by Gandhi.
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>1</td>
+        <td>12</td>
         <td> Application Migration using Transformation Advisor and Tekton pipeline</td>
         <td><a href="https://developer.ibm.com/recipes/tutorials/application-migration-using-transformation-advisor-and-tekton-pipeline/
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>1</td>
+        <td>13</td>
         <td> Tekton Pipeline for Transformation Advisor generated Liberty App</td>
         <td><a href="https://developer.ibm.com/recipes/tutorials/tekton-pipeline-for-transformation-advisor-generated-liberty-app/
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>12</td>
+        <td>14</td>
         <td> IBM Cloud Pak for Applications v4.0.1 Installation on RHOCP 4.2 or 4.3</td>
         <td><a href="https://developer.ibm.com/recipes/tutorials/ibm-cloud-pak-for-applications-v4-0-1-installation/
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>13</td>
+        <td>15</td>
         <td> A best Practice in Dockerizing Vue.js Application</td>
         <td><a href="https://developer.ibm.com/recipes/tutorials/a-best-practice-in-dockerizing-vue-js-application/
         ">Link</a></td>
    </tr>   
     <tr>
-        <td>14</td>
+        <td>16</td>
         <td>Deploying Appsody app in Openshift using Tekton pipeline</td>
         <td><a href="[aaa](https://developer.ibm.com/recipes/tutorials/deploying-appsody-app-in-openshift-using-tekton-pipeline/)">Link</a></td>
    </tr>  
     <tr>
-        <td>15</td>
+        <td>17</td>
         <td> Cloud Pak for Applications 4.0 Installation on OCP 4.2</td>
         <td><a href="https://developer.ibm.com/recipes/tutorials/cloud-pak-for-applications-4-0-installation-on-ocp-4-2/
         ">Link</a></td>
    </tr>  
     <tr>
-        <td>16</td>
+        <td>18</td>
         <td>Deploy a Serverless Application using Knative in OpenShift 4.2 (CP4App 4.0)</td>
         <td><a href="https://developer.ibm.com/recipes/tutorials/deploy-a-serverless-application-using-knative-in-openshift-4-2-cp4app-4-0/
         ">Link</a></td>
