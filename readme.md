@@ -1,15 +1,4 @@
-# Envizi Integration Hub 
-
-Envizi Integration Hub facilitates the integration of data from various external systems into the IBM Envizi ESG Suite.
-
-It connects to external systems, such as Turbonomic, retrieves emissions data, converts this data into the Universal Account Setup and Data Loading format (UDC), and then dispatches it to an S3 bucket configured within the IBM Envizi ESG Suite.
-
-<img src="/docs/images/home.png">
-
-
-## Integrations
-
-Here are the various integration available.
+# Gandhi Repository Contents 
 
 <table>
     <thead>
@@ -19,94 +8,70 @@ Here are the various integration available.
     </thead>
     <tr>
         <td>1</td>
-        <td>Excel Integrations</td>
-        <td><a href="./docs/10-excel">Link</a></td>
+        <td>Open Source Applications </td>
+        <td><a href="./01-apps.md">Link</a></td>
    </tr>   
     <tr>
         <td>2</td>
-        <td>WebHook Integrations</td>
-        <td><a href="./docs/11-webhook">Link</a></td>
-   </tr>   
-    <tr>
-        <td>3</td>
-        <td>Invoice Processing</td>
-        <td><a href="./docs/20-invoices/">Link</a></td>
-   </tr>   
-    <tr>
-        <td>4</td>
-        <td>Utility Bill Processing</td>
-        <td><a href="./docs/21-utility-bills/">Link</a></td>
+        <td>Articles</td>
+        <td><a href="./02-articles.md">Link</a></td>
+   </tr>
    </tr>    
        <tr>
-        <td>5</td>
-        <td>Turbonomic Integration</td>
-        <td><a href="./docs/30-turbonomic/">Link</a></td>
-   </tr>   
-
-</table>
-
-
-
-## Demo Script
-
-Here are the information about demo script.
-
-<table>
-    <thead>
-        <th>S.No</th>
-        <th>Topics</th>
-        <th>Links</th>
-    </thead>
-    <tr>
-        <td>1</td>
-        <td>Excel Integration Demo</td>
-        <td><a href="./docs/60-demo/01-excel">Link</a></td>
-   </tr>   
-    <tr>
-        <td>2</td>
-        <td>Webhook Integration Demo</td>
-        <td><a href="./docs/60-demo/02-webhook">Link</a></td>
-   </tr>   
-</table>
-
-## Developer Technical Info
-
-Here are the information about how to run the integrations hub and all other techincal info.
-
-<table>
-    <thead>
-        <th>S.No</th>
-        <th>Topics</th>
-        <th>Links</th>
-    </thead>
-    <tr>
-        <td>1</td>
-        <td>Create Data Service and Data Pipeline in Envizi</td>
-        <td><a href="./docs/50-developer/01-create-data-services-in-envizi">Link</a></td>
-   </tr>   
-    <tr>
-        <td>2</td>
-        <td>Prepare Configuration file </td>
-        <td><a href="./docs/50-developer/02-prepare-configuration-file">Link</a></td>
-   </tr>   
-    <tr>
         <td>3</td>
-        <td>Start the App using code base</td>
-        <td><a href="./docs/50-developer/03-start-app-in-local/">Link</a></td>
-   </tr> 
+        <td>Watsonx AI</td>
+        <td><a href="./03-watsonx.md">Link</a></td>
+   </tr>     
     <tr>
         <td>4</td>
-        <td>Start the App using Docker</td>
-        <td><a href="./docs/50-developer/05-run-in-docker/">Link</a></td>
-   </tr>        
+        <td>IBM Cloud</td>
+        <td><a href="./04-ibm-cloud.md">Link</a></td>
+   </tr>      
     <tr>
         <td>5</td>
-        <td> Update Configuration settings in the App</td>
-        <td><a href="./docs/50-developer/04-update-config-settings-in-app">Link</a></td>
-   </tr> 
-       <tr>
+        <td>IBM Watson AIOps</td>
+        <td><a href="./05-waiops.md">Link</a></td>
+   </tr>   
+    <tr>
         <td>6</td>
-        <td>Create Docker Images</td>
-        <td><a href="./docs/50-developer/06-create-docker-image">Link</a></td>
-   </tr>  
+        <td>IBM Envizi ESG Suite</td>
+        <td><a href="./06-envizi.md">Link</a></td>
+   </tr>       
+    <tr>
+        <td>7</td>
+        <td>Terraform</td>
+        <td><a href="./07-terraform.md">Link</a></td>
+   </tr>   
+      </tr>    
+       <tr>
+        <td>8</td>
+        <td>IBM TechZone</td>
+        <td><a href="./08-ibm-techzone.md">Link</a></td>
+   </tr>   
+    <tr>
+        <td>9</td>
+        <td>DevOps</td>
+        <td><a href="./09-devops.md">Link</a></td>
+   </tr>   
+    <tr>
+        <td>10</td>
+        <td>OpenShift</td>
+        <td><a href="./10-openshift.md">Link</a></td>
+   </tr>   
+   </tr>
+       <tr>
+        <td>11</td>
+        <td>SevOne</td>
+        <td><a href="./11-sevone.md">Link</a></td>
+   </tr>
+       <tr>
+        <td>12</td>
+        <td>Cloud Pak for Application</td>
+        <td><a href="./12-cloud-pak-for-apps.md">Link</a></td>
+   </tr>
+       <tr>
+        <td>13</td>
+        <td>MultiCloud Manager</td>
+        <td><a href="./13-mcm.md">Link</a></td>
+   </tr>
 </table>
