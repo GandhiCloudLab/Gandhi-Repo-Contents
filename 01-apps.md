@@ -48,12 +48,12 @@
     <tr>
         <td>7</td>
         <td>IBM Cloud Module Provisioner (Microservices) </td>
-        <td><a href="aaaaa">https://github.com/GandhiCloudLab/ibm-cloud-module-provisioner</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-cloud-module-provisioner">Link</a></td>
    </tr>  
     <tr>
         <td>8</td>
         <td>IDepo App (Microservices) </td>
-        <td><a href="aaaaa">https://github.com/GandhiCloudLab/idepo-app</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/idepo-app">Link</a></td>
    </tr>  
     <tr>
         <td>9</td>
