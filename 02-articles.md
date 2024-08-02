@@ -285,6 +285,7 @@ IBM Developer, Recipes and Community articles created by Gandhi.
         <td><a href="https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/03/07/aiops-v32-topology-api-part-1-enabling-topology-ma
         ">Link</a></td>
    </tr>  
+</table>
 
 ## 2021
 
