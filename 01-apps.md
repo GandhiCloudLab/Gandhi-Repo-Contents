@@ -1,4 +1,4 @@
-# Applications
+# Open source Applications
 
 ## Core Apps
 
