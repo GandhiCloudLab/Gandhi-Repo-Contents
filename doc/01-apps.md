@@ -15,7 +15,7 @@
     <tr>
         <td>1</td>
         <td>Envizi Integration Hub (Microservices) </td>
-        <td><a href="https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app">Link</a></td>
+        <td><a href="https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app">Link</a>  <a href="https://developer.ibm.com/tutorials/awb-envizi-integration-hub/">Tutorial</a></td>
    </tr>  
     <tr>
         <td>2</td>
