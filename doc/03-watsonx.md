@@ -8,13 +8,10 @@
         <th>Links</th>
     </thead>
     <tr>
-        <td colspan=3><strong>Core Apps</strong></td>
-   </tr>  
-    <tr>
         <td>1</td>
         <td>Watsonx </td>
         <td>Sqls in LLM</td>
-        <td><a href="https://github.com/GandhiCloudLab/watsonx/tree/main/001-sqls-in-llm">Link</a> Article</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/watsonx/tree/main/001-sqls-in-llm">Article</a></td>
    </tr>  
     <tr>
         <td>2</td>
@@ -31,7 +28,7 @@
     <tr>
         <td>4</td>
         <td>Watson Assistant </td>
-        <td>https://github.com/GandhiCloudLab/watsonx-maximo-assistant </td>
+        <td>Watsonx Maximo Assistant</td>
         <td><a href="https://github.com/GandhiCloudLab/wealthcare-monolith-app">Article</a></td>
    </tr>  
 </table>
