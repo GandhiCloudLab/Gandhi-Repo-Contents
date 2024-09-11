@@ -11,7 +11,7 @@
         <td>1</td>
         <td>Integrate your ESG Data into Envizi using Integration Hub</td>
         <td>
-            <a href="https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app/">Code</a>  
+            <a href="https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app/">App, Code & Doc</a>  
         </td>
    </tr>  
     <tr>
