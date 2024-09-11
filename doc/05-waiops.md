@@ -11,26 +11,26 @@
     <tr>
         <td>1</td>
         <td>Watson AIOps 3.3.0 Demo Setup with iLender Application</td>
-        <td><a href="https://github.com/GandhiCloudLab/watson-ai-ops-330-guide-ilender">Tutorial</a></td>
-        <td><a href="https://github.com/GandhiCloudLab/ibm-waiops-330-blog">Blog</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/watson-ai-ops-330-guide-ilender">Tutorial</a>
+            <a href="https://github.com/GandhiCloudLab/ibm-waiops-330-blog">Blog</a></td>
    </tr>    
     <tr>
         <td>2</td>
         <td> Watson AIOps 3.2.0 Demo Setup with iLender Application</td>
-        <td><a href="https://github.com/GandhiCloudLab/watson-ai-ops-320-guide-ilender">Tutorial</a></td>
-        <td><a href="https://github.com/GandhiCloudLab/ibm-ai-ops-320-blog">Blog</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/watson-ai-ops-320-guide-ilender">Tutorial</a>
+            <a href="https://github.com/GandhiCloudLab/ibm-ai-ops-320-blog">Blog</a></td>
    </tr> 
        <tr>
         <td>3</td>
         <td>Watson AIOps 3.2.0 Demo Setup with BookInfo Application</td>
-        <td><a href="https://github.com/GandhiCloudLab/watson-ai-ops-320-guide-bookinfo">Tutorial</a></td>
-        <td><a href="https://github.com/GandhiCloudLab/watson-ai-ops-320-guide">Blog</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/watson-ai-ops-320-guide-bookinfo">Tutorial</a>
+        <a href="https://github.com/GandhiCloudLab/watson-ai-ops-320-guide">Blog</a></td>
    </tr> 
        <tr>
         <td>4</td>
         <td>Watson AIOps 3.1.0 Demo SEtup with BookInfo Demo Setup</td>
-        <td><a href="https://github.com/GandhiCloudLab/watson-ai-ops-310-guide">Tutorial</a></td>
-        <td><a href="https://github.com/GandhiCloudLab/ibm-ai-ops-310-blog">Blog</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/watson-ai-ops-310-guide">Tutorial</a>
+            <a href="https://github.com/GandhiCloudLab/ibm-ai-ops-310-blog">Blog</a></td>
    </tr>     
     <tr>
         <td>5</td>
