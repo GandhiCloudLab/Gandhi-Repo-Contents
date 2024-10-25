@@ -20,7 +20,7 @@
     <tr>
         <td>2</td>
         <td>Watsonx Sustainability Advisor </td>
-        <td><a href="https://github.com/GandhiCloudLab/watsonx-sustainability-advisor-app/">Tutorial</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/watsonx-sustainability-advisor-app/">Link</a></td>
    </tr>  
     <tr>
         <td>3</td>
@@ -35,7 +35,7 @@
     <tr>
         <td>5</td>
         <td>Envizi Invoice Assist </td>
-        <td><a href="https://github.com/GandhiCloudLab/envizi-invoice-assist-app/">Tutorial</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/envizi-invoice-assist-app/">Link</a></td>
    </tr>  
     <tr>
         <td>6</td>
