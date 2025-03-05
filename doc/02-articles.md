@@ -11,11 +11,33 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
     </thead>
     <tr>
         <td>1</td>
+        <td>Integrating Turbonomic with Envizi via webMethods for Green IT data</td>
+        <td>
+            <a href="https://developer.ibm.com/tutorials/integrate-turbonomic-envizi-webmethods/">Tutorial</a>  &nbsp;&nbsp;
+        </td>
+   </tr>
+    <tr>
+        <td>2</td>
+        <td>Managing emission data in travel and transportation with Envizi</td>
+        <td>
+            <a href="https://developer.ibm.com/tutorials/awb-managing-emission-travel-transportation//">Tutorial</a>  &nbsp;&nbsp;
+        </td>
+   </tr>
+    <tr>
+        <td>3</td>
         <td>ESG forecasting with IBM Envizi and Planning Analytics</td>
         <td>
             <a href="https://developer.ibm.com/tutorials/awb-planning-analytics-addon-envizi/">Article</a>  &nbsp;&nbsp;
         </td>
    </tr>
+    <tr>
+        <td>4</td>
+        <td>Turbonomic and Envizi Integration - info</td>
+        <td>
+            <a href="https://github.com/GandhiCloudLab/turbo-api-for-envizi-data">Article</a>  &nbsp;&nbsp;
+        </td>
+   </tr>
+
 </table>
 
 ## 2024
