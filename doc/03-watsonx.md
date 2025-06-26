@@ -30,5 +30,11 @@
         <td>Watson Assistant </td>
         <td>Watsonx Maximo Assistant</td>
         <td><a href="https://github.com/GandhiCloudLab/wealthcare-monolith-app">Article</a></td>
-   </tr>  
+   </tr>
+    <tr>
+        <td>5</td>
+        <td>Watson Assistant Backup </td>
+        <td>How to take Watson Assistant Backup</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-cloud/tree/main/01-watosn-assistant-backup">Article</a></td>
+   </tr>
 </table>
