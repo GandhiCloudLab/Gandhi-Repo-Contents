@@ -45,8 +45,8 @@
       </tr>    
        <tr>
         <td>8</td>
-        <td>IBM TechZone</td>
-        <td><a href="./doc/08-ibm-techzone.md">Link</a></td>
+        <td>Websphere / Cloud Pak for Application </td>
+        <td><a href="./doc/08-cloud-pak-for-apps.md">Link</a></td>
    </tr>   
     <tr>
         <td>9</td>
@@ -66,8 +66,8 @@
    </tr>
        <tr>
         <td>12</td>
-        <td>Cloud Pak for Application</td>
-        <td><a href="./doc/12-cloud-pak-for-apps.md">Link</a></td>
+        <td>IBM TechZone</td>
+        <td><a href="./doc/12-ibm-techzone.md">Link</a></td>
    </tr>
        <tr>
         <td>13</td>
