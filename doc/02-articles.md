@@ -11,27 +11,69 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
     </thead>
     <tr>
         <td>1</td>
+        <td>Application Modernization Accelerator (AMA) Installation</td>
+        <td>
+        	<a href="https://github.com/GandhiCloudLab/ibm-ama/tree/main/01-ama-local-install">Tutorial</a>
+        </td>
+   </tr> 
+    <tr>
+        <td>2</td>
+        <td>Application Modernization Accelerator (AMA) in Detail</td>
+        <td>
+        	<a href="https://github.com/GandhiCloudLab/ibm-ama/tree/main/02-ama-in-detail">Tutorial</a>
+        </td>
+   </tr> 
+    <tr>
+        <td>3</td>
+        <td>Application Modernization Accelerator (AMA) in EASeJ</td>
+        <td>
+        	<a href="https://github.com/GandhiCloudLab/ibm-ama/tree/main/03-ama-in-EASeJ">Article</a>
+        </td>
+   </tr> 
+    <tr>
+        <td>4</td>
+        <td>Installing WAS ND, MoRE and Liberty in Linux (Ubundu)</td>
+        <td>
+        	<a href="https://github.com/GandhiCloudLab/websphere/tree/main/02-more-installation-full">Tutorial</a>
+        </td>
+   </tr> 
+      <tr>
+        <td>5</td>
+        <td>Modernized Runtime Extension for Java (MoRE)</td>
+        <td>
+        	<a href="https://github.com/GandhiCloudLab/websphere/tree/main/03-about-more">Article</a>
+        </td>
+   </tr> 
+      <tr>
+        <td>6</td>
+        <td>IBM Mono2Micro</td>
+        <td>
+        	<a href="https://github.com/GandhiCloudLab/mono2micro">Tutorial</a>
+        </td>
+   </tr>               
+    <tr>
+        <td>7</td>
         <td>Integrating Turbonomic with Envizi via webMethods for Green IT data</td>
         <td>
             <a href="https://developer.ibm.com/tutorials/integrate-turbonomic-envizi-webmethods/">Tutorial</a>  &nbsp;&nbsp;
         </td>
    </tr>
     <tr>
-        <td>2</td>
+        <td>8</td>
         <td>Managing emission data in travel and transportation with Envizi</td>
         <td>
             <a href="https://developer.ibm.com/tutorials/awb-managing-emission-travel-transportation//">Tutorial</a>  &nbsp;&nbsp;
         </td>
    </tr>
     <tr>
-        <td>3</td>
+        <td>9</td>
         <td>ESG forecasting with IBM Envizi and Planning Analytics</td>
         <td>
             <a href="https://developer.ibm.com/tutorials/awb-planning-analytics-addon-envizi/">Article</a>  &nbsp;&nbsp;
         </td>
    </tr>
     <tr>
-        <td>4</td>
+        <td>10</td>
         <td>Turbonomic and Envizi Integration - info</td>
         <td>
             <a href="https://github.com/GandhiCloudLab/turbo-api-for-envizi-data">Article</a>  &nbsp;&nbsp;
